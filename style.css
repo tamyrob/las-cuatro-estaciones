@@ -18,6 +18,12 @@ p {
     margin-left: 200px;
 }
 
+.titulo-poema {
+    font-weight: bold;
+    margin-left: 100px;
+    margin-bottom: 60px;
+}
+
 .autor {
     margin-left: 150px;
 }
